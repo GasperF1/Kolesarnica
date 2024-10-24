@@ -1,0 +1,1 @@
+C:\dotnet-maui-workshop\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\MonkeyFinder\MonkeyFinder.csproj;x64

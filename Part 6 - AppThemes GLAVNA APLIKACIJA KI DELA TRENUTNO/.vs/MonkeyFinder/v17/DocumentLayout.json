@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\model\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\model\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|c:\\dotnet-maui-workshop\\part 6 - appthemes glavna aplikacija ki dela trenutno\\monkeyfinder\\monkeyfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\monkeyfinder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\view\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\services\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\services\\geoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\monkeyfinder\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2B1C-790E-4432-A719-52182A333ADE}|MonkeyFinder\\MonkeyFinder.csproj|solutionrelative:monkeyfinder\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monkey.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\Model\\Monkey.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\Model\\Monkey.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\Model\\Monkey.cs",
+              "RelativeToolTip": "MonkeyFinder\\Model\\Monkey.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:38:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonkeyDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
+              "RelativeToolTip": "MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:36:40.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:09:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "MonkeyFinder\\View\\DetailsPage.xaml",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\DetailsPage.xaml",
+              "RelativeToolTip": "MonkeyFinder\\View\\DetailsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T05:50:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "MonkeyFinder\\View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:43:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MonkeyFinder\\View\\MainPage.xaml",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\View\\MainPage.xaml",
+              "RelativeToolTip": "MonkeyFinder\\View\\MainPage.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-07T06:20:48.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonkeysViewModel.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
+              "RelativeToolTip": "MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:09:13.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeoService.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\Services\\GeoService.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\Services\\GeoService.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\Services\\GeoService.cs",
+              "RelativeToolTip": "MonkeyFinder\\Services\\GeoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:05:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonkeyFinder.csproj",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\MonkeyFinder.csproj",
+              "RelativeDocumentMoniker": "MonkeyFinder\\MonkeyFinder.csproj",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\MonkeyFinder.csproj",
+              "RelativeToolTip": "MonkeyFinder\\MonkeyFinder.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T05:50:07.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MonkeyFinder\\AppShell.xaml.cs",
+              "ToolTip": "C:\\dotnet-maui-workshop\\Part 6 - AppThemes GLAVNA APLIKACIJA KI DELA TRENUTNO\\MonkeyFinder\\AppShell.xaml.cs",
+              "RelativeToolTip": "MonkeyFinder\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:42:36.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
